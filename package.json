@@ -2,6 +2,9 @@
   "name": "ng-2-web-chat",
   "version": "0.1.0",
   "description": "My Angular2-TypeScript App",
+    "engines": {
+        "node": "4.1.1"
+    },
   "keywords": [
     "angular2",
     "systemjs",
